@@ -1,6 +1,7 @@
 # A Ruby library implementing OpenBSD's bcrypt()/crypt_blowfish algorithm for
 # hashing passwords.
 module BCrypt
+	SUBALERT_VERSION = "3.1.20.1"
 end
 
 if RUBY_PLATFORM == "java"
