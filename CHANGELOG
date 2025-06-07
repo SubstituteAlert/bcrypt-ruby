@@ -1,3 +1,5 @@
+3.1.20.1 June 6 2025: my edits
+
 3.1.20 Nov 17 2023
   - Limit packaged files -- decrease gem filesize by ~28% [GH #272 by @pusewicz]
 
