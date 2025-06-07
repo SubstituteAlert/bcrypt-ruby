@@ -4,7 +4,6 @@ tmp
 *.o
 *.bundle
 *.so
-*.jar
 .DS_Store
 .rbenv-gemsets
 Gemfile.lock
