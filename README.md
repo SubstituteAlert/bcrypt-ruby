@@ -1,4 +1,4 @@
-# bcrypt-ruby (SubAlert Version)
+# bcrypt-ruby
 
 An easy way to keep your users' passwords secure.
 
